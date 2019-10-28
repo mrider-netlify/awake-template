@@ -1,5 +1,6 @@
 ---
 name: About Awake
-image: /logo.svg
+image: /uploads/blue-crocs-2.0.png
+description: test
 ---
-All about the Awake Nuxt Template
+
